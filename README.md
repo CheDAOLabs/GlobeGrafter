@@ -1,6 +1,15 @@
 # GlobeGrafter
 The map component on the full -chain is not just a map
 
+## WINNER OF 🏆 Superhack 2023 Finalist
+You can view project details and videos in ETHGLOBAL
+
+https://ethglobal.com/showcase/globegrafter-wyfb5
+
+
+
+
+
 Game trial link （ The goerli-optimism network needs to be configured in MetaMask）：https://rogue.cenozoic.xyz/
 
 
